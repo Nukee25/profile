@@ -1,4 +1,4 @@
-# 🚀 Kshitij Tiwari — Project Portfolio
+# 🚀 Kshitij Tiwari — Portfolio
 
 Welcome to my project showcase!  
 I’m a Computer Science Engineering student at GCET, passionate about building scalable, inclusive, and impactful technology platforms. My work spans robotics, AI/ML, backend engineering, and creative communication.
